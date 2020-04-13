@@ -103,8 +103,8 @@ img {
   margin-top: -25px;
 }
 
-.test {
-  overflow: hidden;
+:default {
+  overflow-y: hidden;
 }
 
 /* --- Navbar --- */
