@@ -103,6 +103,10 @@ img {
   margin-top: -25px;
 }
 
+iframe {
+  overflow: hidden;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
