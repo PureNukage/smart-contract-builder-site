@@ -103,6 +103,10 @@ img {
   margin-top: -25px;
 }
 
+.test {
+  overflow-y: hidden;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
