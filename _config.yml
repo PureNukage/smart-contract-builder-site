@@ -24,10 +24,10 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
-  Play: "play"
+  index: "play"
   #More: 
-  #  - FAQs: "FAQ"
-  #  - Devlog: "devlog"
+    - FAQs: "FAQs"
+    - devlog/index: "devlog"
   #  - Press: "press"
 # Author's home: "http://deanattali.com"
 
