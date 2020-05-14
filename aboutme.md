@@ -1,16 +1,16 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: default
+title: about
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Contracts](img/running contracts.gif){: .center-block :}
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Smart Contract Builder is a game about building apps that run on blockchains. 
 
-What else do you need?
 
-### my history
+What is a smart contract? 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+A smart contract is code that runs on a blockchain. Check this out for more: https://blog.chain.link/the-power-of-smart-contracts-what-they-are-and-how-they-can-revolutionize-the-future/
+
+

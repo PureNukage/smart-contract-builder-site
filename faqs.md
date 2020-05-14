@@ -3,8 +3,14 @@ layout: default
 title: FAQs
 subtitle:
 ---
-# <html class="test">
 
-# <iframe frameborder="0" src="https://itch.io/embed-upload/2255663?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://purenukage.itch.io/smart-contract-builder"></a></iframe>
+What is this? 
 
-# </html>
+Hi! This is Smart Contract Builder, a game about building smart contracts. It's like a mix between Factorio and Cookie Clicker. 
+
+
+What is a smart contract? 
+
+A smart contract is code that runs on a blockchain. I would recommend reading this: https://blog.chain.link/the-power-of-smart-contracts-what-they-are-and-how-they-can-revolutionize-the-future/
+
+
