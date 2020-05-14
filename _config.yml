@@ -24,7 +24,7 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
-  FAQs: "FAQs"
+  - faqs: "FAQs"
   #More: 
   #  - FAQs: "Devlog"
   #  - Press: "press"
