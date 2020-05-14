@@ -45,9 +45,9 @@ paginate_path: "/blog/page:num/"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#F5F5F5"
-navbar-col: "#B0C4DE"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#000000"
+navbar-text-col: "#ffffff"
+navbar-children-col: "#ffffff"
 #page-col: "#FFFFFF"
 page-col: "#2b76bb"
 link-col: "#00ffde"
