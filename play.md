@@ -5,6 +5,6 @@ subtitle:
 ---
 <html class="test">
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/2255663?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://purenukage.itch.io/smart-contract-builder"></a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/2260872?color=3970d2" allowfullscreen="" width="1280" height="740"><a href="https://purenukage.itch.io/smart-contract-builder"></a></iframe>
 
 </html>
